@@ -1,10 +1,10 @@
-# 🧪 Jupyter Notebooks – Development & Data Pipeline
+# Jupyter Notebooks – Development & Data Pipeline
 
 This folder contains the core Jupyter notebooks used throughout the development and testing phases of the **SteamSmartBuy** project. Each notebook plays a key role in data collection, cleaning, transformation, and preparation for dashboard integration.
 
 ---
 
-## 📓 Notebook Descriptions
+## Notebook Descriptions
 
 ### 1. `data_collection.ipynb`
 - **Purpose**: Handles the initial retrieval of game data from external APIs.
@@ -42,7 +42,7 @@ This folder contains the core Jupyter notebooks used throughout the development 
 
 ---
 
-## 🗂 How They Work Together
+## How They Work Together
 
 1. **`data_collection.ipynb`** gathers raw data  
 2. → **`table_generation.ipynb`** cleans & organizes it  

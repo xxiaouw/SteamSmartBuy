@@ -6,7 +6,7 @@
 
 ## 🚀 Try It Out!
 
-🎯 Check out the dashboard here:  
+Check out the dashboard here:  
 [🔗 Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMmJjZDYxYjgtOTNjYS00Y2ZiLTljYmUtYjNmNGVmMjcxODA4IiwidCI6IjE2MDkzNTg2LTFmN2ItNDVhYy1hYTAxLTRjZDRkYzFkNjUwOCIsImMiOjEwfQ%3D%3D)
 
 ---
@@ -34,7 +34,7 @@ This project integrates multiple data sources and analytical techniques to creat
 
 2. **APIs Used**:
    - 🛒 [**IsThereAnyDeal API**](https://isthereanydeal.com/) – for price logs and deal data across multiple stores.
-   - 🧪 [**Steam API**](https://partner.steamgames.com/doc/webapi) – for metadata, user review rates, and pricing info.
+   - 🧪 [**Steamworks Web API**](https://partner.steamgames.com/doc/webapi) – for metadata, user review rates, and pricing info.
    - 🎮 [**RAWG API**](https://rawg.io/apidocs) – for enhanced Metacritic score access when Steam data is insufficient.
 
 3. **Database (Self-hosted and maintained)**:
@@ -65,14 +65,13 @@ If you’d like to get in touch:
 Special thanks to the following platforms whose APIs made this project possible:
 
 - **[IsThereAnyDeal](https://isthereanydeal.com/)** – Historical deal records and real-time discount info.
-- **[Steam Web API](https://partner.steamgames.com/doc/webapi)** – Game details, user reviews, and current pricing.
+- **[Steamworks Web API](https://partner.steamgames.com/doc/webapi)** – Game details, user reviews, and current pricing.
 - **[RAWG API](https://rawg.io/apidocs)** – Expanded metadata including platform-specific Metacritic scores.
 
 ---
 
 ## 📄 License
 
-This project is open-sourced under the [MIT License](LICENSE).  
-Non-code assets (such as data, dashboard screenshots, and visualizations) are shared under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+This project is open-sourced under the [MIT License](LICENSE).
 
 ---
